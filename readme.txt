@@ -4,3 +4,4 @@ TEST conflict
 =======
 test conflict
 >>>>>>> feature1
+interesting
