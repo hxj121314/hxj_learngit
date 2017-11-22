@@ -1,0 +1,2 @@
+"LSTM-Human-Activity-Recognition"
+https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition.git 
